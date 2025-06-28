@@ -77,7 +77,7 @@ A modern, real-time system monitoring dashboard built with Next.js, featuring li
 
 1. **Clone the repository**
 \`\`\`bash
-git clone https://github.com/yourusername/penguinhosting-dashboard.git
+git clone https://github.com/laggis/penguinhosting-dashboard.git
 cd penguinhosting-dashboard
 \`\`\`
 
